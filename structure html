@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="stylee.css">
+</head>
+<body >
+    <div class="contenter">
+        <div class="box box1">
+            <img src="WhatsApp Image 2026-04-13 at 22.38.02.jpeg" alt="">
+            <h2>intelligence artificielle</h2>
+            <p>intelligence artificielle est la capacité des machines à imiter intelligence humaine pour apprendre, raisonner et prendre des décisions</p>
+            <button>voir plus</a></button>
+        </div>
+        <div class="box box2">
+            <img src="WhatsApp Image 2026-04-13 at 22.49.09.jpeg" alt="">
+            <h2>développement web</h2>
+            <p>Le développement web est ensemble des techniques utilisées pour créer et maintenir des sites web et des applications en lign</p>
+            <button>voir plus</a></button>
+        </div>
+        <div class="box box3">     
+            <img src="WhatsApp Image 2026-04-13 at 22.50.44.jpeg" alt="">
+            <h2>Data science </h2>
+            <p>La data science est un domaine qui consiste à collecter, analyser et interpréter des données afin d’en extraire des informations utiles</p>
+            <button>voir plus</a> </button></div>
+        <div class="box box4">     
+            <img src="WhatsApp Image 2026-04-13 at 22.51.50.jpeg" alt="">
+            <h2>cybersécurité</h2>
+            <p> La cybersécurité est ensemble des techniques utilisées pour protéger les ordinateurs, les réseaux et les données contre les attaques et les accès non autorisés.</p>
+            <button>voir plus</a></button>
+        </div>
+    </div>
+  
+    
+</body>
+</html>
